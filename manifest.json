@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Linkedin Focus",
+  "version": "1.0",
+  "description": "Stay focus on the Linkedin",
+  "icons": {
+    "16": "img/logo_16.png",
+    "48": "img/logo_48.png",
+    "128": "img/logo_128.png"
+  },
+  "action": {
+    "default_icon": "img/logo_16.png",
+    "default_title": "Linkedin Focus",
+    "default_popup": "popup/popup.html"
+  }
+}
